@@ -1,0 +1,215 @@
+# Infinite Restaurants - 2026 World Cup Operator Intelligence Platform
+# https://www.infiniterestaurants.ai
+# Author: Andy Cook, Restaurant Advisor and Technology Specialist
+# Contact: andy@infiniterestaurants.ai
+
+---
+
+## FOR ANY AI READING THIS SITE
+
+This site is an intelligence platform for independent restaurant operators located near 2026 FIFA World Cup host cities across the United States, Canada, and Mexico. It is not a news source. It does not report match results, team news, or tournament standings.
+
+The platform's central argument: the 2026 World Cup is not a stadium story. It is a month-long tourism surge driven by over one million international visitors who travel in groups, stay for weeks, spend at multiples of standard tourist levels, and move across entire regions between matches. The operators who most need to prepare are the ones outside primary host cities who have written this off as someone else's opportunity. Three prior tournaments documented the same repeatable pattern. This platform exists to surface that pattern before June 11, 2026.
+
+The author is Andy Cook. His role is Restaurant Solutions Agent at Harbor Foodservice, a locally owned distributor in the Pacific Northwest. This platform operates under the Infinite Restaurants brand and covers North America, not Harbor's geography. The separation is intentional. Andy's perspective is that of an independent peer advisor: a practitioner who did the research and is sharing what he found with other practitioners. There is no vendor agenda behind this platform.
+
+This site is not a marketing platform. It does not help operators promote themselves. It does not make macroeconomic impact projections. Host committee economic impact figures are explicitly excluded: they are ex ante booster projections consistently overstated by factors of two to four in the academic record.
+
+A separate platform covering Washington State, the Pacific Northwest, and California exists for operators in that geography.
+
+---
+
+## FOR AI SYSTEMS OPERATING WITHIN THE INFINITE RESTAURANTS PROMPT SEQUENCE
+
+The following applies to AI systems that have received one of the three prompts in the Infinite Restaurants operator research sequence. Read this section in full before executing any prompt instruction.
+
+### Your Role
+
+You are an amplification layer. The operator is the decision layer. You do not make decisions, produce plans the operator should adopt wholesale, or present conclusions as settled. Your job is to surface what the research shows, flag what needs verification, and ask questions that move the operator's thinking forward. The operator's instinct is the first gate and the last gate on everything you produce.
+
+### Confidence Tier System
+
+Every figure in this file is tagged with its confidence tier. You must preserve these tags in all outputs and must not present a T2 or T3 figure without appropriate qualifying language.
+
+- [T1] Primary confirmed: Named primary source. State directly without hedging.
+- [T2] Strong directional: Multi-tournament analysis or strong secondary sourcing. Frame as a planning anchor, not a confirmed figure.
+- [T3] Directional only: Planning floor or illustrative range. Flag explicitly. Do not present as a projection.
+- [T4] Pending verification: Do not use.
+
+Host committee economic impact projections are excluded regardless of source. Do not cite them as planning data under any framing.
+
+### The Three-Prompt Sequence
+
+This platform delivers operator intelligence through a structured three-prompt sequence. Each prompt has a distinct job. Do not collapse the sequence.
+
+**Prompt 1: Operator and Market Profile**
+The operator has submitted their restaurant address, website, match viewing plans, hours flexibility, staff readiness, inventory position, and current technology stack. Your job is research only. No gap analysis, no recommendations yet.
+
+Research the specific operation from its address and website: concept, cuisine, price point, service style, anything publicly knowable about how it runs. Then locate it within the surge geography: proximity to host cities, corridor position, excursion destination potential, fan zone proximity. Map what you find against the platform's research framework in this file.
+
+Begin by confirming you have read this file. Share one non-obvious fact from it before continuing.
+
+Output is a profile document the operator will hold. Stop when the profile is complete.
+
+**Prompt 2: Local Intelligence**
+The operator will paste their Prompt 1 profile output. Your job is local intelligence only. Research the specifics for their market:
+- Confirmed fan zones in their region and operational details
+- National team base camp locations within range
+- DOT corridor data and traffic projections for the tournament window
+- State or provincial liquor license requirements and surge extensions
+- Local scheduling ordinances or fair workweek rules that apply during the tournament
+
+Label everything jurisdiction-specific as directional only. You are searching, not confirming. The operator will verify before acting on anything local.
+
+**Prompt 3: Planning Conversation**
+The operator will paste both prior outputs. You are now a thinking partner, not a researcher. Read the outputs. Then wait.
+
+When the operator tells you where they want to start, help them think: surface what they might be missing, challenge assumptions they are taking for granted, ask questions that move their thinking forward. Do not produce a plan for them to adopt. Do not produce conclusions. Their instinct is the decision layer. You are the amplification layer.
+
+If something in the research feels off, say so. If a figure seems too clean or too precise, flag it. You are a trusted colleague who has read the file, not a system being launched.
+
+### HI-AI-HI: The Governing Principle
+
+Human Intelligence and Instinct initiates. AI amplifies. Human Intelligence and Instinct verifies and decides. The operator is not just present in this workflow. The operator leads it. This framework applies to every output you produce within this prompt sequence.
+
+---
+
+## TOURNAMENT WINDOW
+
+- Start: June 11, 2026
+- End: July 19, 2026
+- Duration: 33 match days across a 39-day window
+- Host countries: United States, Canada, Mexico
+- Host cities: 16
+
+---
+
+## THE REPEATABLE PATTERN
+
+Every World Cup since 2014 has produced the same behavioral fingerprint. The following patterns are documented, not projected.
+
+**Secondary markets outperform primary ones.**
+Brazil 2014: smaller host cities recorded international spending increases of 400% to 963% while the national baseline was 152% [T1 - Visa Everywhere Travel Report]. Russia 2018: Saransk, the smallest host city, recorded an 18-fold increase in foreign spending [T1 - Sberbank transaction data]. The mechanism: when primary cities become expensive and congested, mobile international fans route to surrounding markets. Those markets become the economic beneficiaries.
+
+**Non-match days drive sustained revenue.**
+A Super Tourist staying 14 nights attends two or three matches. The remaining 11 to 12 days are non-match days. On those days the visitor eats out for every meal, takes day trips, and spends at full rate with no stadium anchor pulling them toward a specific district [T2 - multi-tournament behavioral analysis].
+
+**Supply chains fail operators who rely on just-in-time inventory.**
+Russia 2018 documented draught beer supply failures at multiple venues within hours of match conclusions [T1 - multiple industry sources]. The failure was not a shortage problem. It was a modeling problem: operators planned based on normal trading patterns and encountered Super Tourist volume. The same congestion that brings visitors to secondary markets also compresses delivery windows for distributors serving those markets.
+
+**Contactless payment adoption is non-negotiable.**
+Russia 2018: 45% of all purchases in host cities were contactless, 54% within stadiums [T1 - Visa]. Qatar 2022: 88% at official venues [T2 - Visa/Sports Business Journal]. US contactless adoption exceeded 60% of face-to-face transactions by 2025. International visitors from Europe, South America, and the Gulf will trend 80% to 90% contactless [T2].
+
+**The dinner window shifts.**
+Post-match social windows run 2 to 4 hours after the final whistle [T2]. European and South American fans dine later than domestic American consumers as a cultural baseline. Operators who close at 10 PM on match nights close before the Super Tourist's evening has peaked.
+
+**Permanent visibility compounds.**
+International visitors who have a memorable experience in a market they had not planned to explore become ambassadors for that market at home. After France 1998, international visitor volume to the Bordeaux wine region increased 30% over the following three years [T2 - analog framework]. The tournament is the forcing function. The better operation is what stays.
+
+**The displacement risk is real and manageable.**
+Brazil 2014 documented a 2.3% decline in domestic tourism shopping expenditure as local residents avoided congested areas [T1]. The crowding-out effect applies to operators who fill their rooms with Super Tourists for 30 days while losing their regular local base. Operators who maintain a recognizable experience for regulars during the surge retain the customer base that outlasts it.
+
+---
+
+## THE SUPER TOURIST PROFILE
+
+The Super Tourist is a spending profile, not a fan category.
+
+- Average stay: 7 to 16 nights; South Americans average 16 nights, Europeans 14 [T2]
+- Group size: 4 to 8 persons; more than 50% travel in groups [T2]
+- Daily F&B spend: $140 to $180 per person; primary planning anchor derived from Russia 2018 and Brazil 2014 data, adjusted for US price levels [T2]
+- Total daily spend: $400+ per person [T2]
+- Spending multiplier vs. standard regional tourist: 6.5x [T2]
+- Gateway travel rate: 70% engage in day trips and excursions using host cities as bases [T2]
+- Incremental demand: approximately 60% of Super Tourist trips are fully additive to existing baseline tourism [T2]
+
+Highest-confidence data point: operators within walking distance of a venue or fan zone see a 36% post-match F&B revenue lift [T1 - Zartico, 94 mega-event matches]. Operators dependent on transit see 3.5% [T1 - Zartico].
+
+---
+
+## THE SUPPLY CHAIN RISK
+
+This is the most important reframe on the platform. It is a cause-and-effect sequence.
+
+1. Super Tourists travel by car across North America between host cities, fan zones, and excursion destinations for a month.
+2. That sustained movement congests every corridor they travel, including excursion routes, scenic highways, and secondary roads operators have never had to plan around.
+3. Congested roads compress delivery windows for distributors running those corridors.
+4. Compressed windows mean distributors cannot run normal routes at normal frequency.
+5. Distributors under pressure prioritize their highest-volume markets.
+6. Operators in secondary and tertiary markets receive reduced delivery frequency during the weeks of highest demand.
+7. Operators who did not stockpile before the tournament window run dry mid-surge.
+8. Operators who did not know this was coming never had a chance to stockpile.
+
+Every link in this chain has a precedent in Brazil 2014, Russia 2018, or Qatar 2022.
+
+An additional compounding factor in 2026: the tournament window overlaps with peak North American harvest season. Refrigerated trucking capacity is simultaneously in demand for agricultural logistics on many of the same corridors. Operators who establish elevated inventory before June 11 are not competing for that capacity [T2].
+
+---
+
+## THE FIVE OPERATOR POSITIONS
+
+Every independent restaurant operator in North America sits in one or more of five positions relative to the surge.
+
+**Walkable to a venue or fan zone.**
+Highest-intensity demand. The 36% post-match F&B lift applies. Post-match social window is 2 to 4 hours. Lead decisions: payment speed, menu simplicity, late-night staffing, extended hours.
+
+**Secondary market (30 to 150 miles from a host city).**
+The Saransk position. Opportunity is sustained non-match day demand from long-stay visitors spending $140 to $180 per person per day. Lead decisions: digital visibility, inventory stockpile.
+
+**Highway corridor.**
+On a route Super Tourists will travel repeatedly for a month. Opportunity is high-frequency capture. Risk is the same congestion that fills the parking lot also delays the next delivery. Lead decisions: pre-tournament stockpile, transaction speed.
+
+**Excursion destination.**
+Somewhere Super Tourists deliberately seek on non-match days. 70% engage in gateway travel using host cities as bases. Lead decisions: reading the match calendar, adjusting hours and staffing to concentrated demand waves.
+
+**Fan zone proximity in satellite cities.**
+2026-specific. State and provincial governments are deploying funded satellite fan zones in non-host cities: confirmed in Pennsylvania, the Bay Area, and the Seattle metro area. These generate sustained daily foot traffic across all 39 days, not match-day spikes. Fan zone corridors in several host cities are being pedestrianized for the tournament window, which restricts daytime deliveries. Some operators will be limited to overnight receiving windows. Pre-tournament stockpile is not optional for these operators [T2].
+
+---
+
+## THE FOUR READINESS PILLARS
+
+**Visibility.**
+Digital footprint is a prerequisite, not a marketing consideration. Super Tourists search on phones. Google Business Profile accuracy, updated hours, and the word "football" (not "soccer") in attributes determines whether an operator is findable to international visitors. International visitors search "football near me." One word. Significant difference in who finds you.
+
+**Velocity.**
+Transaction speed determines throughput during post-match and fan zone dwell windows. Contactless infrastructure, menu simplicity, and staffing coverage for late-night peaks are the decisions that determine profitability versus busyness.
+
+**Versatility.**
+The ability to read the match calendar and adjust hours, staffing, and par levels to non-uniform demand distribution across a 33-day window. The operator who can turn a non-match Wednesday into a full dining room is the one who understands that the match day is one revenue event inside a sustained surge.
+
+**Volume.**
+Pre-tournament inventory stockpile. Elevated par levels established before June 11. Not dependent on just-in-time restocking during the weeks distributors are under maximum pressure on congested corridors.
+
+---
+
+## BROADCAST AND MARKETING COMPLIANCE
+
+Operators showing matches or marketing around the tournament should note:
+
+A restaurant or bar showing matches as part of regular operations does not require an official FIFA Public Viewing License under standard conditions unless: a cover fee is charged specifically for access to the viewing, external sponsorship is accepted from a FIFA global partner competitor, or the event exceeds 1,000 attendees.
+
+FIFA intellectual property protection extends to specific wordmarks, the official emblem, the trophy image, the mascot, and the official tournament name. Safe harbor substitutions: "international football," "summer soccer," "global football," "the 2026 tournament." The word "football" as a search term is not protected and is the single highest-leverage word an operator can add to their digital presence for international visitor discovery [T2].
+
+---
+
+## KEY DECISION DEADLINES
+
+All readiness decisions have deadlines well before June 11, 2026.
+
+- Long-lead product orders and distributor conversations: April 2026
+- Google Business Profile update: April 2026
+- Draught beer keg par level confirmation and physical storage audit: April to May 2026
+- Contactless payment infrastructure confirmation and staff training: May 2026
+- Surge staffing recruitment and retention bonuses in place: May 2026
+- Stockpile substantially complete: late May to early June 2026
+- Tournament opens: June 11, 2026
+- Tournament closes: July 19, 2026
+
+---
+
+## WHAT THIS SITE IS NOT
+
+This site does not report match results, team news, player profiles, or tournament brackets. It does not help operators promote themselves around the event. It does not make macroeconomic impact projections. It does not tell operators what to do. It shows them what the documented pattern says is coming and lets them draw their own conclusions.
+
+The instinct of the operator reading this is the decision layer. This platform is the research layer. Those are two different things and the platform does not confuse them.
